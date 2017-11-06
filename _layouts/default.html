@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{{ page.title }} | {{ site.title }}</title>
+<meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="{{ page.image }}"/>
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta name="robots" content="{{ page.metatags }}">
+<link rel="stylesheet" href="assets/stylesheet.css">
+</head>
+
+<body>
+<div class="section group">
+<div class="col span_3_of_3">
+<div class="header"><p class="logo">Platz nehmen</p></div>
+<h1>{{ page.title }}</h1>
+</div>
+</div>
+<div class="section group">
+<div class="col span_3_of_3">
+{{ content }}
+</div>
+</div>
+</div>
+
+<div class="section group">
+  <div class="navi">
+  <div class="col span_3_of_3">
+  <p><a href="/#idee">Idee</a></p>
+  <p><a href="/#inhalt">Inhalt</a></p>
+  <p><a href="glossar.html">Glossar</a></p>
+  <p><a href="termine.html">Termine</a></p>
+  <p><a href="newsletter.html">Newsletter</a></p>
+  </div>
+  <div class="col span_3_of_3">
+  <p><a href="files/platz-nehmen_final_web.pdf" target="_blank">PDF Download</a></p>
+  <p><a href="kontakt.html">Kontakt</a></p>
+</div>
+</div>
+</div>
+</body>
+</html>
