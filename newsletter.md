@@ -2,6 +2,7 @@
 title: Newsletter
 layout: default
 metatags: index, follow
+lang: de
 ---
 
 <p>Wenn Du über das Projekt auf dem Laufenden bleiben willst, kannst Du Dich hier auf die Newsletter-Liste eintragen. Du bekommst darüber in unregelmäßigen Abständen (nicht mehr als 1x im Monat) Informationen über Veranstaltungen, geplante Projekte und anderes Spannendes aus dem Themenfeld Feminismus in digitalen Räumen.</p>

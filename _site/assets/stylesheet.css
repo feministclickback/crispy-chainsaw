@@ -9,22 +9,22 @@ body{margin:0}
 
 @font-face {
     font-family:athelas;
-    src:url(fonts/Athelas-Regular.ttf);
+    src:url(Athelas-Regular.ttf);
 }
 
 @font-face {
     font-family:athelas-bold;
-    src:url(fonts/Athelas-Bold.ttf);
+    src:url(Athelas-Bold.ttf);
 }
 
 @font-face {
     font-family:athelas-italic;
-    src:url(fonts/Athelas-Italic.ttf);
+    src:url(Athelas-Italic.ttf);
 }
 
 @font-face {
     font-family:big-noodle;
-    src:url(fonts/big_noodle_titling_oblique.ttf);
+    src:url(big_noodle_titling_oblique.ttf);
 }
 
 *{font-family:athelas,Georgia, serif}

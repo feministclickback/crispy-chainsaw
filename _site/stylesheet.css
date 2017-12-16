@@ -9,22 +9,22 @@ body{margin:0}
 
 @font-face {
     font-family:athelas;
-    src:url(Athelas-Regular.ttf);
+    src:url(fonts/Athelas-Regular.ttf);
 }
 
 @font-face {
     font-family:athelas-bold;
-    src:url(Athelas-Bold.ttf);
+    src:url(fonts/Athelas-Bold.ttf);
 }
 
 @font-face {
     font-family:athelas-italic;
-    src:url(Athelas-Italic.ttf);
+    src:url(fonts/Athelas-Italic.ttf);
 }
 
 @font-face {
     font-family:big-noodle;
-    src:url(big_noodle_titling_oblique.ttf);
+    src:url(fonts/big_noodle_titling_oblique.ttf);
 }
 
 *{font-family:athelas,Georgia, serif}
@@ -69,7 +69,7 @@ a{color:rgb(20,114,143)}
 ul.char { list-style-type:none;line-height:30px;font-size:1.5em}
 ul.char li:before {content:"□   " }
 
-.header{display:flex;justify-content:center;background:url("images/header-background.jpg");background-position:-330px 0%;background-repeat: no-repeat;}
+.header{display:flex;justify-content:center;background:url("assets/images/header-background.jpg");background-position:-330px 0%;background-repeat: no-repeat;}
 .logo{font-size:2.5em;font-family:big-noodle,Charcoal,sans-serif;background-color:black;color:rgb(212,250,8);width:200px;height:200px;text-align:center;border-radius:100px;padding:85px 0 85px 0;font-weight:bold}
 
 
