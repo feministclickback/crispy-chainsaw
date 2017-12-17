@@ -3,6 +3,7 @@ title: Impressum
 layout: default
 metatags: noindex, follow
 lang: de
+ref: contact
 ---
 
 <div class="impressum">

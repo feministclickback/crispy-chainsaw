@@ -25,7 +25,6 @@
 </div>
 </div>
 </div>
-
 <div class="section group">
   <div class="navi">
   <div class="col span_3_of_3">
@@ -38,6 +37,18 @@
   <div class="col span_3_of_3">
   <p><a href="assets/files/platz-nehmen_final_web.pdf" target="_blank">PDF Download</a></p>
   <p><a href="kontakt.html">Kontakt</a></p>
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <p>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </p>
+{% endfor %}
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <p>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </p>
+{% endfor %}
 </div>
 </div>
 </div>

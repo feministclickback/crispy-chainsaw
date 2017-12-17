@@ -3,6 +3,7 @@ title: Contact & Legal
 layout: default
 metatags: noindex, follow
 lang: en
+ref: contact
 ---
 
 <div class="impressum">
