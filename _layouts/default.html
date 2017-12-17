@@ -36,15 +36,14 @@
 <div class="section group">
   <div class="navi">
   <div class="col span_3_of_3">
-  <p><a href="/#idee">Idee</a></p>
-  <p><a href="/#inhalt">Inhalt</a></p>
-  <p><a href="glossar.html">Glossar</a></p>
-  <p><a href="termine.html">Termine</a></p>
-  <p><a href="newsletter.html">Newsletter</a></p>
+    {% for menu in site.t[page.lang] %}
+    <p><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></p>
+  {% endfor %}
   </div>
   <div class="col span_3_of_3">
-  <p><a href="assets/files/platz-nehmen_final_web.pdf" target="_blank">PDF Download</a></p>
-  <p><a href="kontakt.html">Kontakt</a></p>
+    {% for menu in site.s[page.lang] %}
+    <p><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></p>
+  {% endfor %}
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
   <p>

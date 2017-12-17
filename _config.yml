@@ -1,3 +1,45 @@
 name : feministclickback
 url: https://feministclickback.org
 title: feministclickback.org
+t:
+  de:
+    content:
+      name: "Inhalt"
+      url: "/#inhalt"
+    glossary:
+      name: "Glossar"
+      url: "/glossar/"
+    dates:
+      name: "Termine"
+      url: "/termine/"
+    newsletter:
+      name: "Newsletter"
+      url: "/newsletter/"
+  en:
+    content:
+      name: "Content"
+      url: "/en/#content"
+    glossary:
+      name: "Glossary"
+      url: "/en/glossary/"
+    dates:
+      name: "Dates"
+      url: "/en/dates/"
+    newsletter:
+      name: "Newsletter"
+      url: "/en/newsletter/"
+s:
+  de:
+    download:
+      name: "Download"
+      url: "/assets/files/platz-nehmen_final_web.pdf/"
+    contact:
+      name: "Kontakt"
+      url: "/impressum/"
+  en:
+    download:
+      name: "Download"
+      url: "/en/#download"
+    contact:
+      name: "Contact"
+      url: "/en/contact/"
