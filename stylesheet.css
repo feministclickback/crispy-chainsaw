@@ -69,11 +69,11 @@ a{color:rgb(20,114,143)}
 ul.char { list-style-type:none;line-height:30px;font-size:1.5em}
 ul.char li:before {content:"□   " }
 
-.header{display:flex;justify-content:center;background:url("assets/images/header-background.jpg");background-position:-330px 0%;background-repeat: no-repeat;}
+.header{display:flex;justify-content:center;background:url("assets/images/header-background.jpg");background-position:-330px 0%;background-repeat: no-repeat;margin-top:50px}
 .logo{font-size:2.5em;font-family:big-noodle,Charcoal,sans-serif;background-color:black;color:rgb(212,250,8);width:200px;height:200px;text-align:center;border-radius:100px;padding:85px 0 85px 0;font-weight:bold}
 
 
-.navi{position:fixed;bottom:0;left:0;background-color:rgb(212,250,8);width:100%}
+.navi{position:fixed;top:0;left:0;background-color:rgb(212,250,8);width:100%}
 .navi div{display:flex;justify-content:center;margin:0}
 .navi a{font-size:1em;font-family:big-noodle,Charcoal,sans-serif;padding:0 10px 0 10px;color:black;text-decoration:none}
 .navi p{margin:5px 0 5px 0}
