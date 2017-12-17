@@ -10,6 +10,14 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 <meta name="robots" content="{{ page.metatags }}">
 <link rel="stylesheet" href="/stylesheet.css">
+{% assign posts=site.posts | where:"ref", page.ref %}
+{% for post in posts %}
+<link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url | absolute_url }}" />
+{% endfor %}
+{% assign pages=site.pages | where:"ref", page.ref %}
+{% for page in pages %}
+<link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url | absolute_url }}" />
+{% endfor %}
 </head>
 
 <body>
