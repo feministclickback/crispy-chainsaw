@@ -74,11 +74,13 @@ ul.char li:before {content:"□   " }
 
 
 .navi{position:fixed;top:0;left:0;background-color:rgb(212,250,8);width:100%}
-.navi div{display:flex;justify-content:center;margin:0}
+.navi div{display:flex;justify-content:flex-start;margin:0;flex-wrap:wrap}
 .navi a{font-size:1em;font-family:big-noodle,Charcoal,sans-serif;padding:0 10px 0 10px;color:black;text-decoration:none}
 .navi p{margin:5px 0 5px 0}
-@media only screen and (max-width: 560px) {
-  .navi div{justify-content:flex-start;}
+.lang {margin-left:auto}
+@media only screen and (max-width: 410px) {
+  .navi div{justify-content:center}
+  .lang {margin:auto}
 }
 
 .inhalt{display:flex;justify-content: flex-start;}

@@ -203,15 +203,13 @@ ref: index
 <p class="box"><strong>Tipp: </strong>Ein Tool, das automatisch prüft, wie gut Texte SEO-optimiert sind und auch noch andere SEO-relevante Funktionen enthält, ist das schon erwähnte Yoast SEO ‣Plugin für Wordpress. Fehlen ‣Keywords an wichtigen Stellen, zeigt euch das ‣Plugin an, wo.</p>
 <h3>Sprechende URLs</h3>
 <p style="margin:50px 0 0 0">‣URLs sollten:</p>
-<div class="liste-mittig">
 <ul>
 <li><span>für Menschen verständlich sein (keine inhaltslosen Zahlen- oder Buchstabenketten)</span></li>
 <li><span>‣Keywords enthalten</span></li>
 <li><span>einen Hinweis auf Aufbau der Webseite und den Inhalt der jeweiligen Unterseite geben, z.B.
-https://www.feminismus.de/informationen/abtreibung/rechtliche-lage/</span></li>
-<li><span>allgemein und zeitlos sein – wenn sich bestimmte Inhalte in regelmäßigen Abständen wiederholen (z.B. jeden Sommer eine Liste mit feministischen Camps), ist es besser, eine allgemeine ‣URL zu haben (z.B. https://www.feminismus.de/feministische-camps-deutschland/), die ihr jedes Mal aktualisiert, anstatt jeweils eine neue Unterseite anzulegen, die zum Beispiel die jeweilige Jahreszahl enthält</span></li>
+https://www.feminismus.de/ informationen/ abtreibung/ rechtliche-lage/</span></li>
+<li><span>allgemein und zeitlos sein – wenn sich bestimmte Inhalte in regelmäßigen Abständen wiederholen (z.B. jeden Sommer eine Liste mit feministischen Camps), ist es besser, eine allgemeine ‣URL zu haben (z.B. https://www.feminismus.de/ feministische-camps-deutschland/), die ihr jedes Mal aktualisiert, anstatt jeweils eine neue Unterseite anzulegen, die zum Beispiel die jeweilige Jahreszahl enthält</span></li>
 </ul>
-</div>
 <h3>Externe Links & soziale Netzwerke</h3>
 <p>Es gibt viele Möglichkeiten, Links auf die eigene Webseite zu bekommen. Dabei sind der Kreativität prinzipiell keine Grenzen gesetzt. Deshalb hier nur einige Tipps für den Anfang – es gibt jedoch mit Sicherheit noch mehr:</p>
 
