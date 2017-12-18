@@ -6,4 +6,4 @@ lang: en
 ref: newsletter
 ---
 
-<p>English translation still a work-in-progress</p>
+<p>English translation still a work-in-progress!</p>
