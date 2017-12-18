@@ -15,6 +15,12 @@ t:
     newsletter:
       name: "Newsletter"
       url: "/newsletter/"
+    download:
+      name: "Download"
+      url: "/assets/files/platz-nehmen_final_web.pdf/"
+    contact:
+      name: "Kontakt"
+      url: "/impressum/"
   en:
     content:
       name: "Content"
@@ -28,15 +34,6 @@ t:
     newsletter:
       name: "Newsletter"
       url: "/en/newsletter/"
-s:
-  de:
-    download:
-      name: "Download"
-      url: "/assets/files/platz-nehmen_final_web.pdf/"
-    contact:
-      name: "Kontakt"
-      url: "/impressum/"
-  en:
     download:
       name: "Download"
       url: "/assets/files/platz-nehmen_final_web.pdf/"

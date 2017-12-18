@@ -39,11 +39,7 @@
     {% for menu in site.t[page.lang] %}
     <p><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></p>
   {% endfor %}
-  </div>
-  <div class="col span_3_of_3">
-    {% for menu in site.s[page.lang] %}
-    <p><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></p>
-  {% endfor %}
+  <div class="lang">
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
   <p>
@@ -56,6 +52,7 @@
     <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
   </p>
 {% endfor %}
+</div>
 </div>
 </div>
 </div>
