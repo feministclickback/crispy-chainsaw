@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="{{ page.lang }}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -9,7 +9,15 @@
 <meta property="og:image" content="{{ page.image }}"/>
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 <meta name="robots" content="{{ page.metatags }}">
-<link rel="stylesheet" href="assets/stylesheet.css">
+<link rel="stylesheet" href="/stylesheet.css">
+{% assign posts=site.posts | where:"ref", page.ref %}
+{% for post in posts %}
+<link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url | absolute_url }}" />
+{% endfor %}
+{% assign pages=site.pages | where:"ref", page.ref %}
+{% for page in pages %}
+<link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url | absolute_url }}" />
+{% endfor %}
 </head>
 
 <body>
@@ -25,19 +33,29 @@
 </div>
 </div>
 </div>
-
 <div class="section group">
   <div class="navi">
   <div class="col span_3_of_3">
-  <p><a href="/#idee">Idee</a></p>
-  <p><a href="/#inhalt">Inhalt</a></p>
-  <p><a href="glossar.html">Glossar</a></p>
-  <p><a href="termine.html">Termine</a></p>
-  <p><a href="newsletter.html">Newsletter</a></p>
+    {% for menu in site.t[page.lang] %}
+    <p><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></p>
+  {% endfor %}
   </div>
   <div class="col span_3_of_3">
-  <p><a href="files/platz-nehmen_final_web.pdf" target="_blank">PDF Download</a></p>
-  <p><a href="kontakt.html">Kontakt</a></p>
+    {% for menu in site.s[page.lang] %}
+    <p><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></p>
+  {% endfor %}
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <p>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </p>
+{% endfor %}
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <p>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </p>
+{% endfor %}
 </div>
 </div>
 </div>

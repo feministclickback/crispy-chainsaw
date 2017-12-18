@@ -2,6 +2,8 @@
 title: Glossar
 layout: default
 metatags: index, follow
+lang: de
+ref: glossary
 ---
 
 <div class="glossar">

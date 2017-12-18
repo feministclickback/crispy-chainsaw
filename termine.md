@@ -2,6 +2,8 @@
 title: Termine
 layout: default
 metatags: index, follow
+lang: de
+ref: dates
 ---
 
 <div class="gruen termine">

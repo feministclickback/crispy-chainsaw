@@ -3,6 +3,8 @@ title: Suchmaschinenoptimierung gegen rechts
 layout: default
 image: assets/images/header-title-img.png
 metatags: index, follow
+lang: de
+ref: index
 ---
 
 <div class="blau">
