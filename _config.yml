@@ -8,35 +8,35 @@ t:
       url: "/#inhalt"
     glossary:
       name: "Glossar"
-      url: "/glossar/"
+      url: "/glossar.html"
     dates:
       name: "Termine"
-      url: "/termine/"
+      url: "/termine.html"
     newsletter:
       name: "Newsletter"
-      url: "/newsletter/"
+      url: "/newsletter.html"
     download:
       name: "Download"
-      url: "/assets/files/platz-nehmen_final_web.pdf/"
+      url: "/assets/files/platz-nehmen_final_web.pdf"
     contact:
       name: "Kontakt"
-      url: "/impressum/"
+      url: "/kontakt.html"
   en:
     content:
       name: "Content"
       url: "/en/#content"
     glossary:
       name: "Glossary"
-      url: "/en/glossary/"
+      url: "/en/glossary.html"
     dates:
       name: "Dates"
-      url: "/en/dates/"
+      url: "/en/dates.html"
     newsletter:
       name: "Newsletter"
-      url: "/en/newsletter/"
+      url: "/en/newsletter.html"
     download:
       name: "Download"
-      url: "/assets/files/platz-nehmen_final_web.pdf/"
+      url: "/assets/files/platz-nehmen_final_web.pdf"
     contact:
       name: "Contact"
-      url: "/en/contact/"
+      url: "/en/contact.html"
