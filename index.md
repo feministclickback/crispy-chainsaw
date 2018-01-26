@@ -40,7 +40,7 @@ ref: index
   </ul>
 </div>
 <h2 id="download">Download</h2>
-<p>Den Leitfaden gibt es auch als Broschüre zum Herunterladen: <a href="assets/files/platz-nehmen_final_web.pdf" target="_blank" style="text-decoration:underline">Download [PDF]</a></p>
+<p>Den Leitfaden gibt es auch als Broschüre zum Herunterladen: <a href="assets/files/platz-nehmen_final_web.pdf" target="\_blank" style="text-decoration:underline">Download [PDF]</a></p>
 </div>
 <div class="gruen">
 <h2 id="idee">Idee</h2>
