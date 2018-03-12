@@ -49,7 +49,7 @@ body{margin:0}
 .group:before,
 .group:after { content:""; display:table; }
 .group:after { clear:both;}
-.span_3_of_3 { width: 100%; }
+.span_3_of_3 { width: 100%; padding: 0 2% 0 2%}
 .span_2_of_3 { width: 66.13%; }
 .span_1_of_3 { width: 32.26%; }
 
@@ -69,7 +69,8 @@ a{color:rgb(20,114,143)}
 ul.char { list-style-type:none;line-height:30px;font-size:1.5em}
 ul.char li:before {content:"□   " }
 
-.header{display:flex;justify-content:center;background:url("assets/images/header-background.jpg");background-position:-330px 0%;background-repeat: no-repeat;margin-top:50px}
+.header{display:flex;justify-content:center;background:url("assets/images/header-background.jpg");background-position:-330px 0%;background-repeat: no-repeat;margin-top:30px}
+.wrap-header{padding:0}
 .logo{font-size:2.5em;font-family:big-noodle,Charcoal,sans-serif;background-color:black;color:rgb(212,250,8);width:200px;height:200px;text-align:center;border-radius:100px;padding:85px 0 85px 0;font-weight:bold}
 
 
@@ -105,6 +106,7 @@ ul.char li:before {content:"□   " }
 }
 
 .impressum{text-align:center}
+.impressum p:last-child{text-align:left}
 .termine p{margin:0 0 20px 0}
 .termine p+h2{margin-top:50px}
 .fussnote{font-size:1.25em}
