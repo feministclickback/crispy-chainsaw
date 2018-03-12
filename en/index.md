@@ -112,19 +112,21 @@ ref: index
 
 <p>Every link works like a recommendation: because a person linked to your site, it means that they read the site and found it good or at a minimum found it relevant. But every link doesn‘t have the same value – if the linked-to site also has high-quality links on it, then Google boosts the quality and relevance of your site.</p>
 
-<p>From Google‘s perspective, it‘s much better if a site like Wikipedia or BBC links to your site than if smaller blogs or spam sites link to your site. It‘s also better if the site linking to your site has a thematic relevance to your site. If the sites are too different, then it‘s possible that Google won't understand the connection between the two.</p>
+<p>From Google‘s perspective, it‘s much better if a site like Wikipedia or BBC links to your site than if smaller blogs or spam sites link to your site. It‘s also better if the site linking to your site has a thematic relevance to your site. If the sites are too different, then it‘s possible that Google doesn‘t understand the connection between the two.</p>
 
-<p>To complicate things further, links have an additional special attribute just for SEO. An HTML link looks like this:</p>
+<p>To make it even more complicated, there are multiple types of links, which are all evaluated differently. An HTML link looks like this:</p>
 <p class="show-links">< a href=“URL of the linked site“>Anchor text< /a ></p>
-<p>The user only sees the anchor text and clicks it to follow the link, but you can also add another attribute called a ‣nofollow attribute to tell the search engine not to follow the link. The link does not impact the SEO of a website (positive or negative) if it has a ‣nofollow attribute.  In HTML, it looks like this:</p>
+<p>The user only sees the anchor text and clicks it to follow the link. One can also add another attribute to the link to manipulate how a search engine sees the link. A ‣nofollow attribute means that a search engine should not follow the link. The link only counts towards the SEO of a website (positive and negative) unless it has a ‣nofollow attribute.  In HTML, it looks like this:</p>
 <p class="show-links">< a href=“URL of the linked site“ rel=“nofollow“>Anchor text< /a ></p>
-<p>Links without any "rel" attribute are automatically ‣dofollow links. Generally, the more "good" links, the better ("good" and "bad" in reference to Google‘s definition). For instance, if a site is linked to from spam, it itself could also potentially be spam, thereby reducing its value in Google's eyes. The links aspect of SEO attempts to not only prove popularity, but the trustworthiness of a site.</p>
+<p>Links without any "rel" attribute are automatically ‣dofollow links. Generally, the more "good" links, the better ("good" and "bad" in reference to Google‘s definition). For instance, if a site is linked to from spam, it itself could also potentially be spam, thereby devaluing its value in Google's eyes. The links aspect of SEO attempts to not only prove popularity, but the trustworthiness of a site.</p>
+
 <div class="img"><img src="../assets/images/links.jpg" width="700" height="255" alt="Grafik Links"></div>
 <p class="fussnote"><span>[</span><span>[</span>&nbsp;Proceed with caution: Links can cancel each other out. If two websites link to each other, from the SEO perspective it doesn‘t help either site (of course these links make sense for other reasons, this is simply the SEO perspective). This is one of the unfortunate side affects of SEO – it leads to unfair competition in the internet where sites are trying to be linked to as much as possible, but themselves link to very few other sites. In the left scene, however, websites in solidarity with one another could reach agreements that help both sites.&nbsp;<span>]</span><span>]</span></p>
 
 <p>How often a site is linked to on social media (e.g., Facebook and Google+) also increases a site‘s popularity.</p>
 
 <p class="box"><strong>Links with problematic content: </strong>If you want to link to a site that you do not support, it should always have the ‣nofollow attribute. This prevents the site from getting a higher search result ranking from your link. Another option is to use the service Donotlink.it to generate another link that also prevents the linked site from knowing where the clicks came from.</p>
+
 
 <h3>4. How effective is SEO?</h3>
 
@@ -133,11 +135,32 @@ ref: index
 
 <p>Competition is another huge factor – if a lot of websites are competing for relevance to the same search term, it becomes a lot harder to move up in the rankings (and stay there). Hard fought search terms are ones that have the largest ‣search volume, meaning that lots of people search them and that they are connected to specific interests. This also goes for search terms that have a specific consumer intention, such as, "Where can I find the best shoes“, which are relevant for businesses.</p>
 
-<p>What people search for is also constantly changing. For example, if German society begins to use the term Schwangerschaftsabbruch (termination of pregnancy) instead of Abtreibung (abortion), then people will begin searching for the trending term. And if people start searching for a different term, the SEO-focus also needs to change.</p>
+<p>What people search for is also constantly changing. For example, if society begins to use the term [[insert another example]] instead of [[ insert another example]], then people will begin searching for the trending term. And if people start searching for a different term, the SEO-focus also needs to change.</p>
 
 <p>Newer websites have it considerably harder than others that have been around for a long time. And if it doesn‘t work to reach first place for a tough search term, it‘s no reason to worry. In this case, all you need instead is a deep breath and a little patience.</p>
-<h2 id="politischer-hintergrund">POLITICAL CONTEXT</h2>
-<p>English coming soon.</p>
+<h2 id="politischer-hintergrund">POLITICAL BACKGROUND</h2>
+<h3>How Google handles feminist-related searches</h3>
+<p>The following is a current snapshot of how Google handles search queries related to feminism. This analysis should aid in developing a strategy, but keep in mind that it is by no means complete.</p>
 
-<h2 id="how-to">HOW TO</h2>
-<p>English coming soon.</p>
+<p class="box">If you want to get a more accurate look at average search results, the tool <a href="http://www.impersonal.me/">www.impersonal.me</a> will show search results without any personalization from Google. Google collects information about internet users in order to individualize search results and impersonal.me makes it possible to see which search results are shown on average.</p>
+<h4>1. General ‣Keywords such as "Feminism"</h4>
+<p>For more general ‣keywords it‘s harder to discern the user‘s ‣search intention – Does the searcher want a definition? Different sides of the debate? Or a feminist organization or newspaper? For this reason, Google shows many different types of websites on the first page and usually leads with a definition of the term. These results depend on which are clicked the most and often include at least one anti-feminist site, often „wikiMANNia“.</p>
+<h4>2. Searches with a feminist intention</h4>
+<p>If the search is clearly intended for feminist results, then in most cases feminist search results will appear. For example, „feminist meetups in Berlin“ or „feminist newspaper/magazine“.</p>
+<h4>3. ‣Keywords for controversial topics</h4>
+<p>Anti-feminist sites show up quite often on the first page for ‣keywords that have a controversial debate surrounding them, such as "Gender mainstreaming" or "Definitionsmacht". This is most likely because most of the content on the anti-feminist sites is about these topics.</p>
+<h4>‣Keywords with an anti-feminist or feminism-critical intention</h4>
+<p>Anti-feminist websites dominate the search results for ‣keywords like „Feminist critique“ or „Critical gender??“. Similarly for terms that anti-feminists have either defined or strongly influenced like „Homo lobby“ or „Genderismus“ Google labels them the experts.</p>
+<hr>
+<p>Generally, the controversial ‣keywords are strategically most relevant because they used in media debates and thereby most-often googled. Someone who searches for „Men‘s rights“ can be a proper Anti-feminist who is actually looking for that kind of content, or they could be a person who is simply interested in the discussion and doesn‘t have a fully-formed opinion. It is therefore quite important to offer that person some feminist view points on the topic.</p>
+
+<p>Secondly, it‘s important to keep in mind less-discussed ‣keywords such as „sexual orientation“, seeing that these topics have lots of internet content from anti-feminist sites. These sites unfortunately spring to the top of the list due to the fact that there is rather little feminist (and search-engine relevant) content to compete with it. It would therefore be good to keep an eye on anti-feminist sites: what are they optimizing, for which ‣keywords are they performing well in search results, which ‣search intentions are behind those ‣keywords, and is it worth the effort to try to compete?</p>
+<p class="box"><strong>Algorithms‘ alleged neutrality</strong><br>We can‘t forget that the fight for places in search engine optimization doesn‘t happen on a neutral playing field – whoever knows the rules the best can achieve a lot, but Google has the last say who wins. And the criteria that Google uses to do this are also not neutral, even when we‘d love to believe so.<br> For example, the brand factor plays an important role: if a brand is well-known and influential, then their search results are placed higher in search results, independent from how well-optimized their website is for SEO. Google therefore contributes to stabilizing existing (capitalist) power relationships.
+<br>It is a political decision for Google to list sites with inhumane content, which happens solely because they are able to hide behind their alleged neutrality.</p>
+<h3>SEO in the Anti-Choice Movement</h3>
+<p>It is clear from the structure and build of Anti-Choice websites that they use SEO strategies and are successful at it. For ‣keywords like "Abortion" and other related searches such as "Abortion Germany", Pro-Life sites appear in the first page of results. In the German case, the Germany feminist organization <a href="https://www.profamilia.de/">Pro Familia</a> do not appear until much later.
+
+<p>The ‣Anti-Choice movement in the USA has used SEO as a strategy for a long time, as reported in an <a href="http://www.nytimes.com/2013/01/05/health/pregnancy-centers-gain-influence-in-anti-abortion-fight.html">article</a> by the New York Times. By using SEO Anti-Choice groups manage to reach a wider audience, push feminist organizations to the bottom of the list (or worse, out of the running completely), and get around certain laws that (should) prevent them from directly interacting with pregnant people.</p>
+
+<p>This strategy is especially malicious because it‘s assumed that pregnant people who are considering an abortion most often use the internet to find information. Abortions are still so stigmatized in society that there‘s often no person to talk to about one‘s situation. Anti-Choice organizations use this situation as an opportunity and on their websites offer telephone hotlines which provide counseling and help – in the end advising them not to get an abortion. We have to fight back!</p>
+</div>
