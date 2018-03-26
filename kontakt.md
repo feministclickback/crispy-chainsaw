@@ -19,7 +19,7 @@ Weichselstraße 13<br>
 <p>V.i.S.d.P. Tina Reis<br>Adresse siehe oben</p>
 <h2>Vielen Dank an:</h2>
 <div style="display: flex;justify-content: center;"><ul style="text-align: left;list-style: none;"><li>re:ny (Layout)</li>
-    <li><a href="lpw.io">Laura Pierson Wadden</a> (Übersetzung und Webdesign)</li><li>
+    <li><a href="http://lpw.io">Laura Pierson Wadden</a> (Übersetzung und Webdesign)</li><li>
     Sonja Folsche, Charlie Kaufhold and Jan Tölva (Lektorat)</li></ul></div>
 <p>Mit freundlicher Unterstützung des Gunda-Werner-Institutes für Feminismus und Geschlechterdemokratie in der Heinrich-Böll-Stiftung</p>
 <img src="assets/images/gunda-werner-institut-logo.jpg" width="400" style="max-width:400px" height="auto" alt="Logo Gunda-Werner-Institut">
