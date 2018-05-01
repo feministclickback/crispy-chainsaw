@@ -12,9 +12,9 @@ t:
     dates:
       name: "Termine"
       url: "/termine.html"
-    newsletter:
-      name: "Newsletter"
-      url: "/newsletter.html"
+    news:
+      name: "Aktuelles"
+      url: "/aktuelles.html"
     download:
       name: "Download"
       url: "/assets/files/platz-nehmen_final_web.pdf"
@@ -31,9 +31,9 @@ t:
     dates:
       name: "Dates"
       url: "/en/dates.html"
-    newsletter:
-      name: "Newsletter"
-      url: "/en/newsletter.html"
+    news:
+      name: "News"
+      url: "/en/news.html"
     download:
       name: "Download"
       url: "/assets/files/platz-nehmen_final_web.pdf"

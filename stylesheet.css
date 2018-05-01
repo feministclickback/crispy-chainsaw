@@ -106,6 +106,7 @@ ul.char li:before {content:"□   " }
 }
 
 .impressum{text-align:center}
+.news{text-align:center}
 .impressum p:last-child{text-align:left}
 .termine p{margin:0 0 20px 0}
 .termine p+h2{margin-top:50px}

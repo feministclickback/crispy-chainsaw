@@ -191,16 +191,12 @@ ref: index
 <li><span><strong>In der Überschrift</strong><br>Im HTML markiert als ‣< h1 >. Wichtig: Es darf nur eine ‣< h1 > geben.</span></li>
 <li><span><strong>Im ersten Satz</strong><br>Der erste Satz bzw. der erste Abschnitt sollte den Inhalt knapp zusammenfassen und das ‣Keyword mindestens einmal enthalten.</span></li>
 <li><span><strong>In Zwischenüberschriften</strong><br>Wichtig: Die Zwischenüberschriften sollten hierarchisch angeordnet und im HTML als < h2 >, < h3 > usw. markiert sein.</span></li>
-<li><span><strong>Im restlichen Text</strong><br>Es soll nicht erzwungen klingen, aber achtet darauf, dass das ‣Keyword später im Text auch noch vorkommt. Tipp: Verwendet auch Synonyme.</span></li>
-<li><span><strong>Im ‣ALT-Text von Bildern</strong></span></li>
+<li><span><strong>Im restlichen Text</strong><br />Es soll nicht erzwungen klingen, aber achtet darauf, dass das ‣Keyword später im Text auch noch vorkommt. Tipp: Verwendet auch Synonyme.</span></li>
+<li><span><strong>Im ‣ALT-Text von Bildern</strong><br>Der ALT-Text ist dazu da, einen Ersatz-Text zu liefern, falls das Bild nicht angezeigt werden kann (deshalb "ALT" wie "Alternative"). Screen Reader nutzen den Text außerdem, um den Inhalt des Bildes vorlesen zu können. Das sollte die immer die Priorität bleiben, jedoch könnt ihr darauf achten, Keywords dann zu verwenden, wenn es etwas über das Bild aussagt.</span></li>
 <li><span><strong>In ‣title und ‣description</strong></span></li>
 </ul>
-<p class="box">Nach einer bestimmten Zeichen- bzw. Pixelanzahl schneidet Google ‣title und ‣description automatisch ab, damit die Suchergebnisse nicht zu lang werden. Ein gutes Tool zum Testen, wie eure Seite in den Suchergebnissen voraussichtlich aussehen würde, gibt es hier: <a href="https://www.sistrix.de/serp-snippet-generator/">https://www.sistrix.de/serp-snippet-generator/</a></p>
-<h4>An diesen Stellen sollten Neben-Keywords vorkommen (falls vorhanden):</h4>
-<ul class="char">
-<li><span><strong>In Zwischenüberschriften</strong></span></li>
-<li><span><strong>Im Text</strong></span></li>
-</ul>
+<h4>Neben-Keywords</h4>
+<p>Nachdem ihr fertig seid mit dem Schreiben, überprüft den Text hinsichtlich der Neben-Keywords. Sie sollten alle einmal gefallen sein. Oft ist das automatisch der Fall und ergibt sich aus dem Thema heraus. Ein SEO-freundlicher Textaufbau nutzt Neben-Keywords als Zwischenüberschriften, um den Text zu strukturieren. Wenn das Thema z.B. Schwangerschaftabbruch ist und das Hauptkeyword "Abtreibung", Nebenkeywords beispielsweise "Abtreibung Methoden", "Abtreibungspille", "Abtreibung Fristen" usw., nutzt diese als Zwischenüberschriften und schreibt jeweils etwas dazu, was das Thema hinreichend beantwortet. Das macht den Text sowohl für Menschen als auch für Suchmaschinen gut verständlich.</p>
 <p class="box"><strong>Tipp: </strong>Ein Tool, das automatisch prüft, wie gut Texte SEO-optimiert sind und auch noch andere SEO-relevante Funktionen enthält, ist das schon erwähnte Yoast SEO ‣Plugin für Wordpress. Fehlen ‣Keywords an wichtigen Stellen, zeigt euch das ‣Plugin an, wo.</p>
 <h3>Sprechende URLs</h3>
 <p style="margin:50px 0 0 0">‣URLs sollten:</p>
@@ -261,6 +257,6 @@ https://www.feminismus.de/ informationen/ abtreibung/ rechtliche-lage/</span></l
 
 <h4>Fehler vermeiden</h4>
 <p>Wann immer ihr eine Unterseite löscht oder die ‣URL ändert, legt unbedingt eine permanente Weiterleitung (‣301 Redirect) von der alten zur neuen ‣URL an, um ‣404-Fehlermeldungen zu vermeiden und um bestehende ‣Rankings an die neue ‣URL weiterzugeben. Leitet immer zu einer ‣URL weiter, die thematisch ähnlich ist. Soll eine ‣URL ersatzlos gestrichen werden, leitet zur Startseite weiter.</p>
-<p>Für viele ‣Content-Management-Systeme gibt es kostenlose ‣Plugins, die das Anlegen von Weiterleitungen ermöglichen, wie z.B. für Wordpress das ‣Plugin Redirection (eine deutsche Anleitung mit Link zur Installationsseite findet sich auf diesem Blog).</p>
+<p>Für viele ‣Content-Management-Systeme gibt es kostenlose ‣Plugins, die das Anlegen von Weiterleitungen ermöglichen, wie z.B. für Wordpress das ‣Plugin Redirection.</p>
 <hr>
 <p>Hiermit endet der praktische Teil – doch natürlich gibt es noch viel mehr. Ergänzungen und Feedback zur Broschüre genauso wie Fragen zu Aspekten, die hier nicht behandelt werden konnten, sind jedoch jederzeit willkommen! Siehe <a href="/kontakt/">Kontakt</a>.</p>

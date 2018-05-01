@@ -8,7 +8,6 @@ ref: index
 ---
 
 <div class="gruen">
-<p style="border:1px solid black;padding:10px">So far, the following sections are available in English: 1. <a href="#idea">Idea</a>, 2. <a href="#technical-background">Technical Background</a>, 3. <a href="#political-background">Political Background</a>. We're working on providing translations of all sections as soon as possible!</p>
 <h2 id="introduction" style="padding-top:50px;margin-top:-50px">Introduction</h2>
 <p>Google has become the go-to for all types of information, and when we search (or "google") something, we usually click on the first, second or third result. Google's search engine logic is therefore critical to what content we read (and don't read).</p>
 <p>How can leftist and feminist organizations move to the top of the search results, and thereby reach a larger audience?</p>
@@ -121,7 +120,7 @@ ref: index
 <p class="show-links">< a href=“URL of the linked site“ rel=“nofollow“>Anchor text< /a ></p>
 <p> Generally, the more "good" links, the better ("good" and "bad" in reference to Google‘s definition). For instance, if a site is linked to from spam, it itself could also potentially be spam, thereby devaluing its value in Google's eyes. Therefore, the links aspect of SEO attempts to not only prove popularity, but the trustworthiness of a site.</p>
 
-<div class="img"><img src="../assets/images/links.jpg" width="700" height="255" alt="Grafik Links"></div>
+<div class="img"><img src="../assets/images/links.jpg" width="700" height="255" alt="Graphic of external links pointing to two different websites, one where the external websites don't relate to the topic of the linked website at all and some links are spam, and one where the links are high quality and make sense thematically"></div>
 <p class="fussnote"><span>[</span><span>[</span>&nbsp;Proceed with caution: Links can cancel each other out. If two websites link to each other, it doesn‘t help the SEO of either site (of course, those links might make sense for other reasons, this is simply the SEO perspective). This is one of the unfortunate side affects of SEO – it leads to unfair competition in the internet where sites are trying to be linked to as much as possible, but themselves link to very few other sites. In the left scene, however, websites in solidarity with one another could reach agreements.&nbsp;<span>]</span><span>]</span></p>
 
 <p>How often a site is linked to on social media (especially Facebook and Google+) also increases a site‘s popularity.</p>
@@ -164,3 +163,108 @@ ref: index
 <p>In the USA, the Anti-Choice movement has used SEO as a strategy for a long time, as reported in an <a href="http://www.nytimes.com/2013/01/05/health/pregnancy-centers-gain-influence-in-anti-abortion-fight.html">article</a> by the New York Times. By using SEO, Anti-Choice groups manage to reach their target audience - pregnant people -, push feminist organizations to the bottom of the list (or worse, out of the running completely), avoid feminist protest.</p>
 
 <p>This strategy is especially malicious because pregnant people who are considering an abortion often use the internet to find information. Abortions are still so stigmatized in society that there‘s often no person to talk to about one‘s situation. Anti-Choice organizations use this situation as an opportunity and on their websites offer telephone hotlines which provide counseling and help – in the end advising them not to get an abortion. We have to fight back!</p>
+<div class="gruen">
+<h2 id="how-to" style="padding-top:50px;margin-top:-50px">HOW-TO GUIDE</h2>
+<p>Now we‘ll take a closer look at the practical side of SEO, from research and choosing the right keywords to implementing the strategy on-site.</p>
+<h3>Keyword research step-by-step</h3>
+<p>Keyword research is about finding the right keywords to optimize for. Even if you already know which keywords you‘d like to target, it‘s worth investing some time in research because keyword research is not only about finding a list of target words, but also about getting to know the searchers‘ intent behind those words and related topics. And you might find synonyms with an even higher search volume.</p>
+<h4>1. Define your goal and target group</h4>
+<p>Who do you want to reach and to what end?</p>
+<h4>2. Brainstorm</h4>
+<p>Brainstorm a first list of words you‘d like to optimize for. You can also just take your topic and write down the most important terms related to it. Would a person who searched for these terms find what they were looking for on your website? Look at other websites that are currently ranking for these terms to find inspiration for related topics and synonyms.</p>
+
+<p class="box"><strong>Finding the right language: </strong>Feminist movements have always tried to show how language reeinforces oppression, and found ways to label things differently. From an SEO perspective, this can be challenging, because as long as new word creations are not commonly used by a lot of people, they‘re also not searched for in search engines. Until feminist language becomes mainstream, it can make sense to adopt a two-pronged approach: to optimize for mainstream words because those are the ones that people search for, but reflect their problematic qualities in the text. Unless, of course, they are so problematic that their use would be unethical.</p>
+
+<h4>3. Use research tools</h4>
+
+<p>There are some free tools that help you find keywords. Type a generic term and the tools will make suggestions for related terms with search volume, using data from Google. (Attention: For some of these tools, you have to register with an email address, and often, there is a limit to how often you can use it for free per day. This makes using the free versions cumbersome, but there is no way of getting around it - you'll need the information. Always use a variety of tools to get the most out of them. KW Finder lets you upload a list of up to 200 words to check at one go.)</p>
+
+<div class="links">
+  <ul>
+<li><a href="http://answerthepublic.com/">http://answerthepublic.com</a></li>
+<li><a href="http://keywordtool.io/">http://keywordtool.io</a></li>
+<li><a href="https://moz.com/explorer">Moz Keyword Explorer</a></li>
+<li><a href="https://app.kwfinder.com">KW Finder</a></li>
+  </ul>
+</div>
+<p class="box">Knowing common search terms for a topic with their respective search volume is not only helpful for SEO purposes, but also for getting to know current debates in society.</p>
+<h4>4. Find out the search volume</h4>
+<p>Find out the average monthly Google search volume for your keywords using the before-mentioned keyword research tools.</p>
+<h4>5. Make a selection</h4>
+<p>Evaluate your list so far. Which keywords have the most search volume? Which topics seem to be on people‘s minds? Does the search intent behind those keywords match your goal? (You can estimate search intent by googling the term with impersonal.me and looking at the first ten results to find out what content they have.) Make a selection of keywords to optimize for. Note that low search volume doesn‘t necessarily have to be a bad thing. It shouldn‘t be too low to be worth the effort, but as long as the search intent is aligned with your goals, you will still reach the right people. </p>
+
+<p class="box">For a new website or a website that doesn‘t have at least some good rankings to build on, it can be tough to rank for keywords with high search volume, because competition for these is high, too. Often, the algorithm tests new websites and pages for low-volume keywords first and then, if user signals are good, slowly tests them for other keywords as well. This is why SEO is often a long-term strategy.</p>
+
+<h4>5. Assign URLs to each keyword (group)</h4>
+<p>Now take your selection and use them to build the structure of your site. Each keyword needs its own URL. Keywords with the same search intent can share a URL (in this case, the keyword with the most search volume will be the primary keyword, and all others will be secondary keywords. Secondary keywords are usually synonyms or relate to different aspects of the same topic.) It helps to make a list of this, or a mind map. </p>
+<h3>All keywords in the right place</h3>
+<p>Now take your plan and start implementing it on-site. The following checklists will help you position your keywords in all the right places.</p>
+
+<h4>These are the places where you should include the primary keyword:</h4>
+<ul class="char">
+<li><span><strong>In the URL</strong></span></li>
+<li><span><strong>In the main headline</strong><br>In HTML marked as ‣< h1 >. Important: There can only be one ‣< h1 >.</span></li>
+<li><span><strong>In the first sentence</strong><br>The first sentence or paragraph should summarize the content of the page and mention the keyword at least once.</span></li>
+<li><span><strong>In other headlines, if it makes sense</strong><br>Important: Keep a clear chronological order of headline in HTML as < h2 >, < h3 > etc.</span></li>
+<li><span><strong>In the rest of the text</strong><br>It shouldn‘t sound forced, but make sure to mention the keyword every now and then where it makes sense. Use synonyms, too.</span></li>
+<li><span><strong>In the ‣ALT-text of images</strong><br>The main function of ALT-texts is to provide a substitute text in case an image can't be displayed, and to increase accessibility, e.g. for people using screen readers. Make sure to make keep this a priority, and include keywords where they actually say something about the image.</span></li>
+<li><span><strong>In ‣title und ‣description</strong></span></li>
+</ul>
+<p class="box">After a certain number of letters or pixels, respectively, Google automatically cuts ‣title and ‣description. A good tool to test how your page would look like in the search results is <a href="https://www.sistrix.de/serp-snippet-generator/">https://www.sistrix.de/serp-snippet-generator/</a></p>
+<h4>Secondary keywords</h4>
+<p>After you finished writing, check that the text includes your secondary keywords. Often, you've already used them because it made sense for the topic. A SEO-friendly structure of a text is to take secondary keywords and, if it makes sense, use them for subsections. For example, if you're writing a text about abortion and secondary keywords are "abortion methods," "abortion pill," "abortion access," you could make these the names of sub-headlines and write a paragraph about them.</p>
+<p class="box"><strong>Tip: </strong>There is a plugin for wordpress called Yoast SEO ‣Plugin that automatically checks these things for you. If keywords are missing in important places, the plugin will show you where (but don‘t take it at face value).</p>
+<h3>Descriptive URLs</h3>
+<p style="margin:50px 0 0 0">‣URLs should:</p>
+<ul>
+<li><span>be understandable for humans (no mere numbers or random letters)</span></li>
+<li><span>contain keywords</span></li>
+<li><span>give a clue as to the structure of the website and the content of the page, e.g.
+https://www.feminismus.de/ informationen/ abtreibung/ rechtliche-lage/</span></li>
+<li><span>be generic and timeless – if you have content on your website that you update in regular intervals (for example, a list of feminist camps every summer), establish one URL that you update, not create a new URL each time. This way, you don‘t have to start from scratch with every new page but instead build on rankings this page has already achieved.</span></li>
+</ul>
+<h3>External links & social media</h3>
+<p>There are many ways to achieve links to your website and technically no limit to your creativity. Basically, it is outreach work that you might probably already be doing anyways. But these are a few basic tips:</p>
+
+<ol>
+<li><span>Ask friendly websites to link to you.</span></li>
+<li><span>Research websites that might find your work relevant and write to them.</span></li>
+<li><span>Write guest posts for blogs or online magazines and make sure they link back to you.</span></li>
+<li><span>You might want to create content that is especially prone to be linked a lot, either because it is particularly helpful or funny/exciting.</span></li>
+<li><span>Curate social media accounts, if that‘s available to you. Always share your own images, videos etc. with a link to where people can find them on your website. This way, you make it easier for people to link to the website because you‘re immediately providing them with the source, and also the link to the website spreads through social media when people share the post.</span></li>
+<li><span>Be careful who you link to. Don‘t link to websites that currently rank for the same keywords that you‘re targeting. This sends a signal to search engines that the other website is more relevant for this search term.</span></li>
+</ol>
+<h3>Internal links</h3>
+<p>Ideally, how the pages of your website link to each other reflects the tree structure you developed during keyword research.</p>
+<h4>Checklist for internal links</h4>
+<ul class="char">
+<li><span> The most important subpages are linked most often, that means they're easily reachable from the main page.</span></li>
+<li><span> Don't overuse navigation bars and footer - only link to the most important pages from there, or the ones where it is absolutely necessary (like the impressum).</span></li>
+<li><span> Text links are valuable for SEO. Wherever it makes sense for the reader to be referred to another page of your website, include a link in the text with the keyword that the linked page should rank for as anchor.</span></li>
+<li><span> Add a ‣Sitemap</span></li>
+</ul>
+<h3>Interaktive elements</h3>
+<p>If the content is interesting and helpful and the website has a clear structure, users will naturally interact with it. But there are a few elements you can include that encourage the type of user signals search engines like.</p>
+<h4>These include:</h4>
+<ul>
+<li><span>Table of contents</span></li>
+<li><span>‣Jump links guiding through long texts</span></li>
+<li><span>Image galleries</span></li>
+<li><span>Downloads</span></li>
+<li><span>Videos</span></li>
+</ul>
+<p>… and many more. ‣Plugins are available for many of these elements, but if you can do it in HTML, that'd be even better because plugins tend to slow sites down.</p>
+<h3>Advice for existing websites</h3>
+<p>Applying SEO to an existing website that has been around for a while without using any of these techniques can be a lot of work, especially if you have to work on the internal structure and URLs. These tips can help:</p>
+<h4>Step-by-step adjustments</h4>
+<p>Before you start, imagine for a moment that you had to design the website from scratch again, then do keyword research as if building a new website. With your ideal structure in mind, adjust your existing website step by step, not all at once. If it can be avoided, and especially if your website is already ranking for some keywords, don't do a complete overhaul of your website. This might hurt your rankings and you'll have to rebuild all your credit. Small adjustments that lead to the same result, but over a certain amount of time don't have this negative effect, but instead count even as positive because it sends repeated signs that the website is up-to-date and well curated.</p>
+<h4>Get an overview</h4>
+
+<p>The tool <a href="https://www.screamingfrog.co.uk/seo-spider/">Screaming Frog</a> helps you gain an overview over all kinds of technical aspects of your website. It crawls your site and gives you data on which and how many URLs there are, how often they are linked and from where, where there are certain elements like ‣< h1 > or title and description missing and which URLs respond with 404 errors.</p>
+<p class="fussnote"><span>[</span><span>[</span>&nbsp;Screaming Frog's free version includes basic functions that should be sufficient in most cases.&nbsp;<span>]</span><span>]</span></p>
+
+<h4>Avoid mistakes</h4>
+<p>Important: Whenever you change a URL or delete a page, make sure to redirect it to a new URL (‣301 Redirect). This way, the old URL doesn't respond with a 404 error code, and you tranfer all the credit the old URL had with search engines to the new one. Always redirect to a URL that is similar or identical content-wise. If you're deleting a page where you don't have a content equivalent, redirect to the home page.</p>
+<p>Many ‣content management systems have plugins for redirects. Wordpress users can use the plugin Redirection.</p>
+<hr>
+<p>This is it for the practical part. There's a lot more, of course. Feedback and questions are always welcome! See <a href="/en/contact.html">Contact</a>.</p>
