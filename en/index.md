@@ -1,7 +1,7 @@
 ---
 title: Search engine optimization against the far-right
 layout: default
-image: ../assets/images/header-title-img.png
+image: /assets/images/header-title-img.png
 metatags: index, follow
 lang: en
 ref: index

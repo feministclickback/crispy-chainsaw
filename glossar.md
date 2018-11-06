@@ -2,6 +2,7 @@
 title: Glossar
 layout: default
 metatags: index, follow
+image: /assets/images/header-title-img.png
 lang: de
 ref: glossary
 ---

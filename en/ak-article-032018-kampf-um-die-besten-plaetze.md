@@ -2,6 +2,7 @@
 title: feministclickback in a.k. March 2018
 layout: default
 metatags: index, follow
+image: /assets/images/header-title-img.png
 lang: en
 ref: ak-artikel-032018
 ---

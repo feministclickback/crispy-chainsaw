@@ -2,6 +2,7 @@
 title: feministclickback im Interview auf Radio Corax
 layout: default
 metatags: index, follow
+image: /assets/images/header-title-img.png
 lang: de
 ref: interview-radio-corax-042018
 ---
