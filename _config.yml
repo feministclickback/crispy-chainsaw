@@ -17,7 +17,7 @@ t:
       url: "/aktuelles.html"
     download:
       name: "Download"
-      url: "/assets/files/platz-nehmen_final_web.pdf"
+      url: "/assets/files/feministclickback-broschuere-2018.pdf"
     contact:
       name: "Kontakt"
       url: "/kontakt.html"
@@ -36,7 +36,7 @@ t:
       url: "/en/news.html"
     download:
       name: "Download"
-      url: "/assets/files/platz-nehmen_final_web.pdf"
+      url: "/assets/files/feministclickback-broschuere-2018.pdf"
     contact:
       name: "Contact"
       url: "/en/contact.html"
