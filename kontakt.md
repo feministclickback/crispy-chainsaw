@@ -1,5 +1,5 @@
 ---
-title: Impressum
+title: Kontakt und Impressum
 layout: default
 metatags: noindex, follow
 image: /assets/images/header-title-img.png

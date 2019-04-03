@@ -36,6 +36,8 @@ body{margin:0}
 	margin: 0;
 }
 
+.section.body { max-width: 1000px; margin:auto;}
+
 .section:nth-last-child(2){margin:0 10% 10% 10%}
 
 .col {
@@ -53,8 +55,8 @@ body{margin:0}
 .span_2_of_3 { width: 66.13%; }
 .span_1_of_3 { width: 32.26%; }
 
-h1{font-size:2.25em;font-family:big-noodle, Charcoal, sans-serif;color:rgb(20,114,143);text-align:center;margin-top:30px}
-h2,h3,h4{font-size:2.25em;font-family:big-noodle,Charcoal,sans-serif;text-align:center}
+h1{font-size:2.25em;font-family:big-noodle, Charcoal, sans-serif;color:rgb(20,114,143);text-align:left;margin-top:150px}
+h2,h3,h4{font-size:2.25em;font-family:big-noodle,Charcoal,sans-serif;text-align:left}
 .gruen h2,h3,h4{color:rgb(212,250,8)}
 .blau h2,h3,h4{color:rgb(20,114,143)}
 .gruen .box{color:rgb(212,250,8)}
@@ -75,9 +77,10 @@ ul.char li:before {content:"□   " }
 
 
 .navi{position:fixed;top:0;left:0;background-color:rgb(212,250,8);width:100%}
-.navi div{display:flex;justify-content:flex-start;margin:0;flex-wrap:wrap}
+.navi div{display:flex;justify-content:flex-end;margin:0;flex-wrap:wrap}
 .navi a{font-size:1em;font-family:big-noodle,Charcoal,sans-serif;padding:0 10px 0 10px;color:black;text-decoration:none}
-.navi p{margin:5px 0 5px 0}
+.navi p{margin:20px 0 20px 0}
+.navi p:first-child {margin-right:auto;}
 .lang {margin-left:auto}
 @media only screen and (max-width: 410px) {
   .navi div{justify-content:center}

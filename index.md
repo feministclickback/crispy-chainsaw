@@ -1,5 +1,5 @@
 ---
-title: Suchmaschinenoptimierung gegen rechts
+title: feministclickback
 layout: default
 image: /assets/images/header-title-img.png
 metatags: index, follow
@@ -115,7 +115,7 @@ ref: index
 <p class="fussnote"><span>[</span><span>[</span>&nbsp;Doch Achtung: Links können sich auch gegenseitig ausgleichen. Wenn zwei Webseiten aufeinander verlinken, bringt das keiner von beiden etwas, zumindest aus SEO-Perspektive – natürlich gibt es noch andere Gründe, wieso diese Links trotzdem Sinn machen können. Das ist einer der unangenehmen Nebeneffekten von SEO: Es verleitet zu unfairem Konkurrenzverhalten im Internet, weil alle versuchen, möglichst viel verlinkt zu werden und selbst nur sparsam zu verlinken. Unter linken, solidarischen Webseiten könnte es aber möglich sein, offen darüber zu sprechen und Absprachen zu treffen.&nbsp;<span>]</span><span>]</span></p>
 
 <p>Wie oft eine Seite in sozialen Netzwerken (v.a. Facebook und Google+) geteilt wurde, ziehen Suchmaschinen ebenfalls als Zeichen für deren Beliebtheit heran.</p>
-<p class="box"><strong>Links auf problematische Inhalte: </strong>Wollt ihr selbst eine Seite verlinken, die ihr politisch nicht unterstützen wollt, sollte der Link immer das ‣nofollow-Attribut tragen – dadurch verhindert ihr, dass ihr der Seite unbeabsichtigt zu besseren Suchmaschinenplatzierungen verhelft. Eine andere Möglichkeit ist, mithilfe von <a href="https://donotlink.it2">Donotlink.it</a> einen neuen Link zu generieren, was darüber hinaus noch verhindert, dass die verlinkte Seite erfährt, woher die Klicks kamen.</p>
+<p class="box"><strong>Links auf problematische Inhalte: </strong>Wollt ihr selbst eine Seite verlinken, die ihr politisch nicht unterstützen wollt, sollte der Link immer das ‣nofollow-Attribut tragen – dadurch verhindert ihr, dass ihr der Seite unbeabsichtigt zu besseren Suchmaschinenplatzierungen verhelft. Eine andere Möglichkeit ist, mithilfe von <a href="https://donotlink.it">Donotlink.it</a> einen neuen Link zu generieren, was darüber hinaus noch verhindert, dass die verlinkte Seite erfährt, woher die Klicks kamen.</p>
 <h3>4. Und wie sind die Erfolgsaussichten?</h3>
 <p>SEO ist kein mechanisches Unterfangen: Es gibt keine geprüfte Methode, die zu 100 Prozent zum Erfolg führt. Manchmal sind die Vorgänge hinter Suchmaschinenplatzierungen auch eher wie eine Blackbox – mensch gibt eine Menge hinein, aber es ist unklar, was innen passiert. Zum einen sind die genauen ‣Ranking-Faktoren nicht transparent. Zum anderen ändern sich die Spielregeln häufig. Google führt in regelmäßigen Abständen Updates durch, die die Suchergebnisse durcheinander wirbeln können.</p>
 <p class="fussnote"><span>[</span><span>[</span>&nbsp;Alle, die mehr wissen wollen, finden hier eine <a href="https://moz.com/google-algorithm-change/">Übersicht der bisherigen Google-Updates.</a>&nbsp;<span>]</span><span>]</span></p>

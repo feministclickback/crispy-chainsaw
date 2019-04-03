@@ -36,14 +36,9 @@
 </head>
 
 <body>
-<div class="section group">
-<div class="col span_3_of_3 wrap-header">
-<div class="header"><p class="logo">feministclickback</p></div>
-<h1>{{ page.title }}</h1>
-</div>
-</div>
-<div class="section group">
+<div class="section group body">
 <div class="col span_3_of_3">
+<h1>{{ page.title }}</h1>
 {{ content }}
 </div>
 </div>
@@ -51,6 +46,7 @@
 <div class="section group">
   <div class="navi">
   <div class="col span_3_of_3">
+    <p><a href="/">feministclickback</a></p>
     {% for menu in site.t[page.lang] %}
     <p><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></p>
   {% endfor %}

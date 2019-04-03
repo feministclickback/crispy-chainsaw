@@ -3,18 +3,9 @@ url: https://feministclickback.org
 title: feministclickback.org
 t:
   de:
-    content:
-      name: "Inhalt"
-      url: "/#inhalt"
     glossary:
       name: "Glossar"
       url: "/glossar.html"
-    dates:
-      name: "Termine"
-      url: "/termine.html"
-    news:
-      name: "Aktuelles"
-      url: "/aktuelles.html"
     download:
       name: "Download"
       url: "/assets/files/feministclickback-broschuere-2018.pdf"
@@ -22,18 +13,9 @@ t:
       name: "Kontakt"
       url: "/kontakt.html"
   en:
-    content:
-      name: "Content"
-      url: "/en/#content"
     glossary:
       name: "Glossary"
       url: "/en/glossary.html"
-    dates:
-      name: "Dates"
-      url: "/en/dates.html"
-    news:
-      name: "News"
-      url: "/en/news.html"
     download:
       name: "Download"
       url: "/assets/files/feministclickback-broschuere-2018.pdf"
